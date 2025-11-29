@@ -1,2 +1,2 @@
-reg# ragdoll.
+
 jualan ragdoll
